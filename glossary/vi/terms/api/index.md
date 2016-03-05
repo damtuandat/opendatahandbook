@@ -1,5 +1,5 @@
 ---
-section: terms
+section: Khái niệm
 lang: vi
 title: API
 ---
